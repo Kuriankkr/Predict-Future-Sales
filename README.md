@@ -19,3 +19,9 @@ You are provided with daily historical sales data. The task is to forecast the t
 - item_name - name of item
 - shop_name - name of shop
 - item_category_name - name of item category
+
+Note: This notebook has been done with help from Coursera course 
+How to Win a Data Science Competition: Learn from Top Kagglers and also with help from the follwoing notebooks
+https://www.kaggle.com/dlarionov/feature-engineering-xgboost
+https://www.kaggle.com/kyakovlev/1st-place-solution-part-1-hands-on-data
+
