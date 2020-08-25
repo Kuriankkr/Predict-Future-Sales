@@ -1,4 +1,4 @@
-# Predicting-Future-Sales
+# Predict Future Sales
 
 ## Objective 
 
