@@ -17,7 +17,7 @@ You are provided with daily historical sales data. The task is to forecast the t
 - item_cnt_day - number of products sold. You are predicting a monthly amount of this measure
 - item_price - current price of an item
 - item_name - name of item
-- shop_name - name of shop
+- shop_name - name of shops
 - item_category_name - name of item category
 
 Note: This notebook has been done with help from Coursera course 
