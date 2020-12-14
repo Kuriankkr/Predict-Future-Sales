@@ -52,7 +52,7 @@ and also with help from the following links
 
 ## Technology Used
 <p>
-  <img width="250" height = "250" align='left' src="https://github.com/Kuriankkr/Predict-Future-Sales/blob/master/Images/Pandas_Image.png">
+  <img width="250" height = "200" align='left' src="https://github.com/Kuriankkr/Predict-Future-Sales/blob/master/Images/Pandas_Image.png">
 </p>
 
 
