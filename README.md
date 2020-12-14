@@ -22,7 +22,6 @@ The link for the dataset is given [here](https://www.kaggle.com/c/competitive-da
 - **shops.csv:** *Supplemental information about the shops.*
 
 
-
 ## Data fields description:
 - **ID:** *An Id that represents a (Shop, Item) tuple within the test set*
 - **Shop_id:** *Unique identifier of a shop*
@@ -47,4 +46,8 @@ and also with help from the following links
 
 - [Link 1](https://www.kaggle.com/dlarionov/feature-engineering-xgboost)
 - [Link 2](https://www.kaggle.com/kyakovlev/1st-place-solution-part-1-hands-on-data)
+
+## Technology Used
+https://github.com/Kuriankkr/Predict-Future-Sales/tree/master/Images
+
 
