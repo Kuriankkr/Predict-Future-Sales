@@ -35,7 +35,7 @@ The link for the dataset is given [here](https://www.kaggle.com/c/competitive-da
 - **Shop_name:** *Name of shops* 
 - **Item_category_name:** *Name of item category*  
 
-# Evaluation
+## Evaluation
 The evaluation metric for this competition is the RMSE (root mean squared error) between the actual and predicted auction prices.
  
 
