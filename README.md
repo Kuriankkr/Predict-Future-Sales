@@ -49,7 +49,7 @@ and also with help from the following links
 
 ## Technology Used
 <p>
-  <img width="250" align='left' src="https://github.com/Kuriankkr/Predict-Future-Sales/tree/master/Images">
+  <img width="250" align='left' src="https://github.com/Kuriankkr/Predict-Future-Sales/blob/master/Images/Pandas_Image.png">
 </p>
 
 
