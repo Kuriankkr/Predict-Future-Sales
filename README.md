@@ -48,6 +48,9 @@ and also with help from the following links
 - [Link 2](https://www.kaggle.com/kyakovlev/1st-place-solution-part-1-hands-on-data)
 
 ## Technology Used
-https://github.com/Kuriankkr/Predict-Future-Sales/tree/master/Images
+<p>
+  <img width="250" align='left' src="https://github.com/Kuriankkr/Predict-Future-Sales/tree/master/Images">
+</p>
+
 
 
