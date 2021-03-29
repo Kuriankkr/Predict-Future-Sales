@@ -1,4 +1,4 @@
-# Predict Future Sale
+# Predict Future Sales
 
 ## Overview
 This is one of my side projects that I had worked with sourcing data form Kaggle. I like to use data science specifically to predict the sales of items(an area of my interest), be it tractors like in the project below or in this project where the goal was to predict the total amount of products sold in every shop for a supermarket chain. I had borrowed techniques from other fellow Kagglers (mentioned in the credits) and learnt a lot on the kind of strategies and technique that one should look into during feature engineering. This notebook focuses heavily on feature engineering that captures the trend of previous sales  
